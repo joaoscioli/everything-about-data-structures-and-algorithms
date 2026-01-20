@@ -72,21 +72,30 @@ Instead of memorizing solutions, the focus is on:
 .
 ├── patterns/
 │   ├── two-pointers/
-│   ├── sliding-window/
 │   ├── fast-slow-pointers/
+│   ├── sliding-window/
 │   ├── binary-search/
-│   ├── dfs/
-│   ├── bfs/
+│   ├── intervals/
+│   ├── prefix-sums/
+│   ├── backtracking/
 │   ├── dynamic-programming/
-│   └── greedy/
+│   ├── greedy/
+│   ├── bit-manipulation/
+│   └── math-geometry/
 │
 ├── data-structures/
-│   ├── arrays/
+│   ├── arrays-strings/
+│   ├── hash-maps-sets/
 │   ├── linked-lists/
-│   ├── stacks-queues/
+│   ├── stacks/
+│   ├── queues/
+│   ├── heaps/
 │   ├── trees/
-│   ├── graphs/
-│   └── heaps/
+│   ├── tries/
+│   └── graphs/
+│
+├── algorithms/
+│   └── sorting-searching/
 │
 ├── complexity/
 │   ├── time-complexity.md
