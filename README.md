@@ -1,3 +1,4 @@
+![thecodingcabin_pixel_banner](https://github.com/user-attachments/assets/a1ea0b1b-76ff-47c5-8232-56100c452913)
 # Everything about Data Structures & Algorithms
 
 ### by **TheCodingCabin**
