@@ -3,7 +3,19 @@
 ## 📌 What is it?
 Two Pointers is a technique where two indices traverse a data structure
 from different positions to reduce time complexity from O(n²) to O(n).
+Core Traversal Types
 
+- **Inward Traversal**
+Pointers start at opposite ends and move toward the center.
+Ideal for sorted arrays, symmetry checks, and optimization problems (e.g., pair sums, palindromes, max area).
+
+- **Unidirectional Traversal**
+Both pointers move forward, each with a distinct responsibility (read vs write).
+Commonly used for in-place filtering, reordering, and compaction.
+
+- **Staged Traversal**
+Pointer movement occurs in clearly defined phases.
+Useful for problems involving next permutations or lexicographical transitions.
 ---
 
 ## 🎯 When to use
