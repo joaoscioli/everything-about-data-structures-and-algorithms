@@ -42,12 +42,14 @@ Useful for problems involving next permutations or lexicographical transitions.
 ---
 
 ## 🧪 Examples
-| Example | Description |
-|-------|------------|
-| PairSum|Given an array of integers sorted in ascending order and a target value|
-| two_sum_sorted | Find two numbers that sum to target |
-| reverse_string | Reverse a string in-place |
-| remove_duplicates | Remove duplicates from sorted array |
+| Example           | Description |
+|-------------------|------------|
+| PairSum           |Given an array of integers sorted in ascending order and a target value|
+| TripletSum        |Given an array of integers, return all triplets [a, b, c] such that a + b + c = 0.|
+| IsPalindromeValid |Given a string, determine if it’s a palindrome after removing all non-alphanumeric characters|
+| two_sum_sorted    |Find two numbers that sum to target |
+| reverse_string    |Reverse a string in-place |
+| remove_duplicates |Remove duplicates from sorted array |
 
 ---
 
