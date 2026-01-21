@@ -57,3 +57,15 @@ Useful for problems involving next permutations or lexicographical transitions.
 - Always check if the array is sorted
 - Ask if extra space is allowed
 - Be careful with pointer movement conditions
+
+#### Tip 01: Clarify problem constraints.
+It’s common to not receive all the details of a problem from an interviewer. For example, you ' might only be asked to "check if a string is a palindrome.” 
+But before diving into a solution, it’s 1 important to clarify details with the interviewer, such as the presence of non-alphanumeric j characters, their treatment, 
+the role of numbers, the case sensitivity of letters, and other rele- ; vant details.
+
+#### Tip 02: Confirm before using significant in-built functions.
+This problem is made easier by using in-built functions such as .isalnum (or equivalent). Before using an 
+in-built function that simplifies the implementation, ask the interviewer if it’s okay to use it, or if they would prefer you implement it yourself. The interviewer 
+will most likely allow the use of an in-built function, or ask you to implement it as an exercise for later in the interview. If you use an in-built function, make 
+sure you understand its time and space complexity. Remember that interviewers are looking for team players, and this shows them you're considerate of their preferences 
+and can adapt your approach based on the requirements.
