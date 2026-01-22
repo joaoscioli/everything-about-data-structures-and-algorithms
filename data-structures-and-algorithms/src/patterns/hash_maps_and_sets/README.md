@@ -61,13 +61,15 @@ Worst case: O(n) due to collisions (rare in practice).
 
 ## 🧪 Examples
 
-| Example                | Description                           |
-| ---------------------- | ------------------------------------- |
-| Two Sum                | Find two numbers that sum to a target |
-| Contains Duplicate     | Check if array has duplicates         |
-| First Unique Character | Find first non-repeating character    |
-| Group Anagrams         | Group strings by character frequency  |
-| Frequency Counter      | Count occurrences of elements         |
+| Example                | Description                                                                                |
+|------------------------|--------------------------------------------------------------------------------------------|
+| PairSumUnsorted        | Given an array of integers, return the indexes of any two numbers that add up to a target  |
+| VerifySudokuBoard      | Given a partially completed 9x9 Sudoku board, determine if the current state of the board  |
+| Two Sum                | Find two numbers that sum to a target                                                      |
+| Contains Duplicate     | Check if array has duplicates                                                              |
+| First Unique Character | Find first non-repeating character                                                         |
+| Group Anagrams         | Group strings by character frequency                                                       |
+| Frequency Counter      | Count occurrences of elements                                                              |
 
 ---
 
