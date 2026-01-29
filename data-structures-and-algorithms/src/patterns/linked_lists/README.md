@@ -81,6 +81,19 @@ Space: **O(n)**
 * Dummy nodes reduce conditional logic
 * Clarify if list is singly or doubly
 
+### #Tip: Visualize pointer manipulations.
+Often, it can be tricky to figure out exactly what to do when dealing with linked list manipulation. Drawing pointers as arrows between nodes can be quite helpful. By observing how these
+arrows should be reoriented to represent changes in the linked list’s structure, we can deduce
+the necessary pointer manipulation logic. This approach also helps identify which nodes we
+need references to when making these changes.
+
+### Tip: Explore how combining data structures can help achieve certain functionality.
+It’s possible to encounter situations where no single data structure provides the functionality
+required for your solution. In such cases, try to work out if this functionality can be achieved
+using a combination of data structures. For instance, in this problem we combined a doubly *
+linked list and a hash map to achieve the functionality required for the LRU cache.
+
+
 ---
 
 ## ⚠️ Common Pitfalls
