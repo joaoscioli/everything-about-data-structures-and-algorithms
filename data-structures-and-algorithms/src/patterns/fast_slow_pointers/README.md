@@ -147,6 +147,21 @@ Used in problems like **Find the Duplicate Number**, where:
 
 ---
 
+## Interview Tips:
+
+#### Tip: Be prepared to address potential gaps in the information provided.
+During an interview, it's possible the interviewer won't specify which middle node should be
+returned for linked lists of even length. leaving it up to you to recognize and address this special
+scenario. You might be expected to identify ambiguities like this and actively engage with the
+interviewer to discuss a suitable resolution.
+
+#### Tip: Visualize the problem.
+At first glance, this problem seems like it requires mathematical reasoning to solve. However, ]
+when we visualized the problem, we were able to formulate a solution using an algorithm j
+we already know (Floyd's Cycle Detection). Visualizing a problem can help uncover hidden
+patterns or data structures that can lead to the solution.
+
+---
 ## Final Notes
 
 Fast and Slow Pointers is a **foundational algorithmic pattern**. Mastering it improves your ability to recognize deeper problem structures and write optimized solutions with clean logic.
