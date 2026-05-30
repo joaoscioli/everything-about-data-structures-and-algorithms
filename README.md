@@ -7,6 +7,20 @@ This repository is part of the **Everything about X** series from **TheCodingCab
 
 The goal is not just to solve problems, but to **understand why solutions work**, recognize **recurring patterns**, and build a **solid algorithmic mindset** applicable to real-world software engineering interviews.
 
+## Portfolio Positioning
+
+This repository is maintained as a public interview and problem-solving
+knowledge base. Its role in my portfolio is to show algorithmic reasoning,
+complexity analysis, communication clarity, and long-term learning discipline.
+
+It is intentionally separate from implementation-focused backend projects. For
+engineering evaluation, this repository should be read as supporting evidence
+for problem solving, not as the main proof of production backend experience.
+
+**Repository type:** interview preparation and algorithmic reasoning  
+**Primary focus:** data structures, algorithms, complexity analysis  
+**Portfolio role:** supporting reference for technical interviews
+
 ---
 
 ## 🎯 Objectives
